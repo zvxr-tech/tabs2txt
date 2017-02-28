@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "tabs2txt",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Generate a newline-delimited block of text composed of the URLs of all tabs in the current window.",
+    "description": "Description of the add-on."
+  },
+
+  "contextMenuAddTabsURL": {
+    "message": "Gather URLs",
+    "description": "Title of context menu item."
+  },
+
+  "popupTitle": {
+		"message": "Copy Tab URLs",
+		"desdcription": "Text to display on hover-over action icon."
+  }
+
+}
