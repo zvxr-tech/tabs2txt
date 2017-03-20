@@ -29,9 +29,13 @@ body {
 }
 
 #popup-buttons {
-  height: 40px;
+  height: 60px;
 }
 
 #copy-button{
+	width: 100%;
+}
+
+#paste-button{
 	width: 100%;
 }
