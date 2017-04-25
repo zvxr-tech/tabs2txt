@@ -5,6 +5,7 @@ Mike Clark 2016
 
 ## Description
 This add-on provides a button to copy the URL strings of all active tabs in a window to a scratchpad, delimit them with newlines, and provides the ability to copy the list to clipboard.
+The scratchpad contents can be edited in-place and another button allows for the URLs in the scratchpad to be re-opened in new tabs.
 
 ## Compatability
 Tested on:
