@@ -9,7 +9,8 @@ The scratchpad contents can be edited in-place and another button allows for the
 
 ## Compatability
 Tested on:
-- Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0
+- Firefox Version 50.0 (Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0)
+   - Available here: https://addons.mozilla.org/firefox/addon/tabs2txt/
 - Chrome Version 56.0.2924.87 (64-bit)
 
 ## Changelog
