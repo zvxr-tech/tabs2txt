@@ -1,4 +1,4 @@
-/* General styling, from Mozilla demo code*/
+/* General styling, derived from Mozilla demo code*/
 
 * {
   box-sizing: border-box;
@@ -25,11 +25,11 @@ body {
   display: inline-block;
 	width: 100%;
 	height: 100%;
-  margin: 1px;
+  
 }
 
 #popup-buttons {
-  height: 60px;
+  /* */
 }
 
 #copy-button{
